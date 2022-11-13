@@ -1,1 +1,1 @@
-# vidly-api-node
+Movie renting platform 
